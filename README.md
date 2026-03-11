@@ -22,7 +22,7 @@ Key findings:
 • Larger boattail reduced separation by ~25%
 • Increased shock-induced unsteadiness
 
-→ View Project
+→ View Project (Hypersonic_solver)
 
 ---
 
