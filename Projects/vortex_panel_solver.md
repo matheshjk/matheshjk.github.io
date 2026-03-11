@@ -36,11 +36,14 @@ Airfoil discretization and panel geometry used in the solver:
 
 ![](/images/VP_distribution.png)
 
-Pressure coefficient distribution and contour predicted by the vortex panel solver at 6deg AoA:
+Pressure coefficient contour predicted by the vortex panel solver at 6deg AoA:
+
+![](/images/VP_contour.png)
+
+The obtained cp distribution is compared with the experimental resutls for NACA0012 airfoil.
 
 ![](/images/VP_cp.png)
-The obtained cp distribution is compared with the experimental resutls for NACA0012 airfoil.
-![](/images/VP_contour.png)
+
 
 These results demonstrate the ability of the panel method to capture the **pressure distribution and lift generation mechanisms** for airfoils in inviscid flow. 
 
