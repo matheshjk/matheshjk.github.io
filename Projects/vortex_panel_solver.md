@@ -73,11 +73,11 @@ Wake vortex evolution behind the pitching flat plate:
 
 ![](/images/VPU_velocity.png)
 
-lift coefficient hysterisis during the pitching motion:
+lift coefficient hysteresis during the pitching motion:
 
 ![](/images/VPU_steady_unsteady.png)
 
-Lift hysterisis at different reduced frequencies
+Lift hysteresis at different reduced frequencies
 
 ![](/images/VPU_polar.png)
 
