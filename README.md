@@ -29,7 +29,7 @@ Key findings:
 ### 2. Dynamic Stall CFD – NACA0012
 Unsteady RANS simulations analysing leading-edge vortex formation during pitching motion.
 
-→ View Project (Projects/Dynamic_stall.md)
+[View Project →](Projects/Dynamic_stall.md)
 
 ---
 
