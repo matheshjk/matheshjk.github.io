@@ -34,13 +34,15 @@ From this, the **lift coefficient** is obtained.
 
 Airfoil discretization and panel geometry used in the solver:
 
-![](/images/vpm_panel_geometry.png)
+![](/images/VP_distribution.png)
 
-Pressure coefficient distribution predicted by the vortex panel solver:
+Pressure coefficient distribution and contour predicted by the vortex panel solver at 6deg AoA:
 
-![](/images/vpm_cp_distribution.png)
+![](/images/VP_cp.png)
+The obtained cp distribution is compared with the experimental resutls for NACA0012 airfoil.
+![](/images/VP_contour.png)
 
-These results demonstrate the ability of the panel method to capture the **pressure distribution and lift generation mechanisms** for airfoils in inviscid flow.
+These results demonstrate the ability of the panel method to capture the **pressure distribution and lift generation mechanisms** for airfoils in inviscid flow. 
 
 ---
 
@@ -66,11 +68,15 @@ This approach allows the solver to capture the **time-dependent development of c
 
 Wake vortex evolution behind the pitching flat plate:
 
-![](/images/unsteady_wake_evolution.png)
+![](/images/VPU_velocity.png)
 
-Time history of the lift coefficient during the pitching motion:
+lift coefficient hysterisis during the pitching motion:
 
-![](/images/unsteady_lift_history.png)
+![](/images/VPU_steady_unsteady.png)
+
+Lift hysterisis at different reduced frequencies
+
+![](/images/VPU_polar.png)
 
 The unsteady solver captures the **dynamic lift response and wake vortex formation**, illustrating how changes in circulation generate vorticity that is shed into the wake.
 
