@@ -14,6 +14,18 @@ Projects focused on developing numerical methods and analytical aerodynamic mode
 
 ---
 
+### Hypersonic Flow Solver
+
+Numerical modelling of high-speed compressible flows relevant to hypersonic regimes.
+
+📄 **Detailed description:**  
+[View Project](Projects/hypersonic_solver.md)
+
+💻 **Code repository:**  
+*Repository link to be added*
+
+---
+
 ### Method of Characteristics – Underexpanded Jet Solver
 
 Python implementation of a Method of Characteristics solver to compute the flow field of an underexpanded supersonic jet, predicting expansion waves and characteristic reflections.
@@ -98,26 +110,9 @@ Steady RANS simulation of a high-lift two-element airfoil using the k–ω SST t
 
 ---
 
-### Tandem Wing Configuration Optimization
 
-CFD simulations combined with response surface modelling and optimization algorithms to maximise cruise lift for a tandem-wing UAV configuration.
 
-📄 **Detailed description:**  
-[View Project](Projects/Tandem_wing_optimisation.md)
 
----
-
-### Hypersonic Flow Solver
-
-Numerical modelling of high-speed compressible flows relevant to hypersonic regimes.
-
-📄 **Detailed description:**  
-[View Project](Projects/hypersonic_solver.md)
-
-💻 **Code repository:**  
-*Repository link to be added*
-
----
 
 # Experimental Aerodynamics & Flow Measurement
 
@@ -181,6 +176,15 @@ Analysis of hot-fire test data from solid rocket motors to investigate ignition 
 ---
 
 # UAV & Aircraft Design
+
+---
+
+### Tandem Wing Configuration Optimization
+
+CFD simulations combined with response surface modelling and optimization algorithms to maximise cruise lift for a tandem-wing UAV configuration.
+
+📄 **Detailed description:**  
+[View Project](Projects/Tandem_wing_optimisation.md)
 
 ---
 
