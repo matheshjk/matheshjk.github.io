@@ -57,7 +57,7 @@ The number of characteristics is user-defined, allowing control over solution re
 
 
 ![Pressure distribution](/assets/images/MoC1.png)
-![Mach distribution](/assets/images/Moc2.png)
+![Mach distribution](/assets/images/MoC2.png)
 
 ## Relevance
 
