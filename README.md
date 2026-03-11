@@ -62,12 +62,12 @@ Implementation of a potential flow solver for thin airfoils using discrete vorte
 
 ---
 
-### Unsteady Lifting Line Solver
+### Lifting Line Solver with Frozen wake
 
 Numerical lifting-line solver modelling rotor aerodynamics using horseshoe vortices and Biot–Savart induced velocity calculations.
 
 📄 **Detailed description:**  
-[View Project](Projects/unsteady_lifting_line.md)
+[View Project](Projects/lifting_line.md)
 
 💻 **Code repository:**  
 *Repository link to be added*
