@@ -37,11 +37,11 @@ The code is written in an **object-oriented framework**, with separate classes f
 
 *Example 2D pressure coefficient distribution computed on 10% thick biconvex airfoil.*
 
-![Pressure coefficient distribution](images/Hypersonic_solver.png)
+![Pressure coefficient distribution](/images/Hypersonic_solver.png)
 
 *Example 3D pressure coefficient distribution computed on 10mm ogive.*
 
-![Pressure coefficient distribution](images/Hypersonic_solver2.png)
+![Pressure coefficient distribution](/images/Hypersonic_solver2.png)
 
 ## Relevance
 
