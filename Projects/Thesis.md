@@ -55,7 +55,7 @@ Flapping mode:
 
 ![](/images/Thesis_flapping.png)
 
-Flapping mode:
+Undulation mode:
 
 ![](/images/Thesis_undulation.png)
 
