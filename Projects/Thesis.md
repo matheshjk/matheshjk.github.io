@@ -41,7 +41,7 @@ These results show that increasing boattail radius can shorten the separated reg
 
 Instantaneous schlieren comparison across radius configurations:
 
-![](/images/Thesis_schlieren.png)
+![](/images/Thesis_schlieren.jpg)
 
 Shock induced separation:
 
