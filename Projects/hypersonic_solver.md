@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hypersonic solver
+---
+
 # Hypersonic Low-Fidelity Solver
 
 A Python-based low-fidelity aerodynamic solver for rapid estimation of hypersonic pressure loads on arbitrary 3D geometries. The tool applies classical local surface inclination methods to STL-based configurations and is intended for preliminary aerodynamic assessment during early design stages.
