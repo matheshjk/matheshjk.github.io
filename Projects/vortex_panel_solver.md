@@ -1,3 +1,8 @@
+---
+layout: default
+title: Vortex Panel method
+---
+
 # Vortex Panel Method Solver
 
 ## Overview
