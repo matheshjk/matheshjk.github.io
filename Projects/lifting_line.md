@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lifting line
+---
+
 # Frozen Wake Lifting Line Solver
 
 ## Overview
