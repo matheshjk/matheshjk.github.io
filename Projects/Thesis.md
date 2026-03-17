@@ -1,3 +1,8 @@
+---
+layout: default
+title: Thesis
+---
+
 # Experimental Investigation of Boattail Radius Effects for Hammerhead Launcher Flows
 
 ## Overview
