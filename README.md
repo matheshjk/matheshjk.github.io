@@ -6,13 +6,17 @@ Aerodynamics | CFD | Experimental Aerodynamics | Propulsion
 
 ## About Me
 
-![](/images/profile.jpg)
+<img src="/images/profile.jpg" width="250"/>
 
-I am an aerospace engineering graduate from TU Delft with a focus on aerodynamics and fluid mechanics, particularly in high-speed and complex flow regimes.
+I’m an aerospace engineering graduate from TU Delft who somehow ended up spending a lot of time thinking about how air behaves when you really start pushing it. High speeds, separation, shocks, all the complex stuff, because that’s where the fun is.
 
-My work spans numerical modelling, CFD simulations, and experimental investigations, with an emphasis on understanding flow physics and translating it into engineering insight. I am particularly interested in problems where aerodynamics connects with system-level performance — such as propulsion integration, high-speed flight, and early-stage design tools.
+Most of my work sits between what I like to call the holy trinity of aerodynamic design: analytical modelling, CFD, and experimental aerodynamics. I enjoy getting into the details of flow physics, but I’m just as interested in what those details actually mean for a design, whether that’s a wing, a propulsion system, or an entire configuration.
 
-Across my projects, I have worked on developing in-house solvers, analysing wind tunnel experiments, and building reduced-order models to support faster design iteration.
+I tend to gravitate towards problems where aerodynamics does not live in isolation. Things like propulsion and airframe interaction, high-speed flows, or building quick tools that tell you early on whether an idea is promising or completely doomed, which honestly happens quite often.
+
+Across different projects, I have built in-house solvers, worked with wind tunnel data, and developed reduced-order models to speed up design decisions. Somewhere along the way, I also learned that the first result is usually wrong, “converged” does not necessarily mean correct (and sometimes the other way around), plots only start making sense after staring at them for far too long, and the schlieren knife-edge is never quite at 50% blockage.
+
+Reading out of thin air!
 
 ---
 
