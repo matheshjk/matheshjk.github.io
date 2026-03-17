@@ -99,6 +99,9 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h2>CFD Simulations</h2>
 <p>Computational Fluid Dynamics studies using steady and unsteady flow modelling to investigate aerodynamic behaviour.</p>
 
+<table>
+<tr>
+<td>
 <h3>Dynamic Stall CFD – NACA0012</h3>
 <p>Unsteady RANS simulations of a pitching NACA0012 airfoil analysing leading-edge vortex formation, lift hysteresis, and separation dynamics.</p>
 <p>📄 <a href="Projects/Dynamic_stall.md">Detailed description</a></p>
@@ -106,12 +109,18 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h3>Two Element Airfoil CFD – NLR7301</h3>
 <p>Steady RANS simulation of a high-lift two-element airfoil using the k–ω SST turbulence model, with validation against experimental data.</p>
 <p>📄 <a href="Projects/CFD_2_element.md">Detailed description</a></p>
-
+</table>
+</tr>
+</td>
 <hr>
 
 <h2>Experimental Aerodynamics &amp; Flow Measurement</h2>
 <p>Projects involving wind tunnel experimentation, flow diagnostics, and aerodynamic measurements.</p>
 
+<table>
+<tr>
+<td>
+  
 <h3>Experimental Investigation of Hammerhead Launcher Flows</h3>
 <p>Master’s thesis investigating boattail-radius effects on shock–boundary-layer interaction and wake behaviour in hammerhead launcher configurations using Schlieren, oil flow, and PIV.</p>
 <p>📄 <a href="Projects/Thesis.md">Detailed description</a></p>
@@ -124,26 +133,41 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <p>Experimental study of aerodynamic and acoustic effects of one-engine-inoperative conditions on a twin-engine aircraft model.</p>
 <p>📄 <a href="Projects/OEI_aircraft.md">Detailed description</a></p>
 
+</table>
+</tr>
+</td>
+  
 <hr>
 
 <h2>Aeroacoustics</h2>
-
+<table>
+<tr>
+<td>
 <h3>Propeller Loading Noise Modelling</h3>
 <p>Numerical analysis of propeller loading noise using rotating dipole acoustic models and spectral analysis.</p>
 <p>📄 <a href="Projects/Trailing_noise.md">Detailed description</a></p>
+</table>
+</tr>
+</td>
 
 <hr>
 
 <h2>Propulsion &amp; Gas Dynamics</h2>
-
+<table>
+<tr>
+<td>
 <h3>Solid Rocket Motor Performance Analysis</h3>
 <p>Analysis of hot-fire test data from solid rocket motors to investigate ignition behaviour, thrust development, and impulse variability.</p>
 <p>📄 <a href="Projects/SRM_analysis.md">Detailed description</a></p>
-
+</table>
+</tr>
+</td>
 <hr>
 
 <h2>UAV &amp; Aircraft Design</h2>
-
+<table>
+<tr>
+<td>
 <h3>Tandem Wing Configuration Optimization</h3>
 <p>CFD simulations combined with response surface modelling and optimisation algorithms to maximise cruise lift for a tandem-wing UAV configuration.</p>
 <p>📄 <a href="Projects/Tandem_wing_optimisation.md">Detailed description</a></p>
@@ -151,7 +175,9 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h3>Tiltrotor Bi-Prop UAV Concept</h3>
 <p>Conceptual design and aerodynamic analysis of a tiltrotor UAV configuration.</p>
 <p>📄 <a href="Projects/Tiltrotor_biopter_UAV.md">Detailed description</a></p>
-
+</table>
+</tr>
+</td>
 <hr>
 
 <p><em>Built with equal parts flow physics, debugging, and questionable optimism.</em></p>
