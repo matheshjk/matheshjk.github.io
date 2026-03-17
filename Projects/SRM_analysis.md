@@ -1,3 +1,9 @@
+---
+layout: default
+title: SRM analysis
+---
+
+
 # Solid Rocket Motor Analysis and Hot-Fire Test Evaluation
 
 ## Overview
