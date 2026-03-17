@@ -13,13 +13,13 @@ Aerodynamics | CFD | Experimental Aerodynamics | Propulsion
 </td>
 <td>
 
-I’m an aerospace engineering graduate from TU Delft who somehow ended up spending a lot of time thinking about how air behaves when you really start pushing it. High speeds, separation, shocks, all the complex stuff, because that’s where the fun is.
+<p>I’m an aerospace engineering graduate from TU Delft who somehow ended up spending a lot of time thinking about how air behaves when you really start pushing it. High speeds, separation, shocks, all the complex stuff, because that’s where the fun is.</p>
 
-Most of my work sits between what I like to call the holy trinity of aerodynamic design: analytical modelling, CFD, and experimental aerodynamics. I enjoy getting into the details of flow physics, but I’m just as interested in what those details actually mean for a design, whether that’s a wing, a propulsion system, or an entire configuration.
+<p>Most of my work sits between what I like to call the holy trinity of aerodynamic design: analytical modelling, CFD, and experimental aerodynamics. I enjoy getting into the details of flow physics, but I’m just as interested in what those details actually mean for a design, whether that’s a wing, a propulsion system, or an entire configuration.</p>
 
-I tend to gravitate towards problems where aerodynamics does not live in isolation. Things like propulsion and airframe interaction, high-speed flows, or building quick tools that tell you early on whether an idea is promising or completely doomed, which honestly happens quite often.
+<p>I tend to gravitate towards problems where aerodynamics does not live in isolation. Things like propulsion and airframe interaction, high-speed flows, or building quick tools that tell you early on whether an idea is promising or completely doomed, which honestly happens quite often.</p>
 
-Across different projects, I have built in-house solvers, worked with wind tunnel data, and developed reduced-order models to speed up design decisions. Somewhere along the way, I also learned that the first result is usually wrong, “converged” does not necessarily mean correct (and sometimes the other way around), plots only start making sense after staring at them for far too long, and the schlieren knife-edge is never quite at 50% blockage.
+<p>Across different projects, I have built in-house solvers, worked with wind tunnel data, and developed reduced-order models to speed up design decisions. Somewhere along the way, I also learned that the first result is usually wrong, “converged” does not necessarily mean correct (and sometimes the other way around), plots only start making sense after staring at them for far too long, and the schlieren knife-edge is never quite at 50% blockage.</p>
 
 </td>
 </tr>
