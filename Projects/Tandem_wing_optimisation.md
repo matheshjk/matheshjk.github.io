@@ -157,7 +157,17 @@ All optimisation approaches converged to the same optimal configuration:
 
 ---
 ### Media
+Schematic of tandem wing
 
+![](/images/Op_schematic.png)
+
+2d Optimisation plot
+
+![](/images/Op_2d.png)
+
+3d Optimisation plot
+
+![](/images/Op_3d.png)
 
 ---
 ### Key Insights
