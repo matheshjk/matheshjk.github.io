@@ -6,7 +6,12 @@ Aerodynamics | CFD | Experimental Aerodynamics | Propulsion
 
 ## About Me
 
-<img src="/images/profile.jpg" width="250"/>
+<table>
+<tr>
+<td width="260">
+<img src="/images/profile.jpg" style="width:240px; border-radius:10px;"/>
+</td>
+<td>
 
 I’m an aerospace engineering graduate from TU Delft who somehow ended up spending a lot of time thinking about how air behaves when you really start pushing it. High speeds, separation, shocks, all the complex stuff, because that’s where the fun is.
 
@@ -16,7 +21,11 @@ I tend to gravitate towards problems where aerodynamics does not live in isolati
 
 Across different projects, I have built in-house solvers, worked with wind tunnel data, and developed reduced-order models to speed up design decisions. Somewhere along the way, I also learned that the first result is usually wrong, “converged” does not necessarily mean correct (and sometimes the other way around), plots only start making sense after staring at them for far too long, and the schlieren knife-edge is never quite at 50% blockage.
 
-Reading out of thin air!
+</td>
+</tr>
+</table>
+
+<p><em>Reading out of thin air.</em></p>
 
 ---
 
