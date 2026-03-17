@@ -58,7 +58,7 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h3>Method of Characteristics – Underexpanded Jet Solver</h3>
 <p>Python implementation of a Method of Characteristics solver for underexpanded supersonic jets, capturing expansion waves and characteristic reflections.</p>
 <p>
-📄 <a href="Projects/Moc.md">Detailed description</a><br>
+📄 <a href="Projects/Moc">Detailed description</a><br>
 💻 <em>Repository link to be added</em>
 </p>
 
