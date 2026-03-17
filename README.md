@@ -51,7 +51,7 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h3>Hypersonic Flow Solver</h3>
 <p>Low-fidelity aerodynamic modelling of hypersonic configurations using Newtonian, tangent-wedge, and shock-expansion methods.</p>
 <p>
-📄 <a href="Projects/hypersonic_solver.md">Detailed description</a><br>
+📄 <a href="Projects/hypersonic_solver">Detailed description</a><br>
 💻 <em>Repository link to be added</em>
 </p>
 
@@ -65,28 +65,28 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h3>Navier–Stokes Solver – Lid Driven Cavity</h3>
 <p>Development of a 2D incompressible Navier–Stokes solver using incidence matrices and Hodge operators to compute pressure, vorticity, and streamfunction fields.</p>
 <p>
-📄 <a href="Projects/Lid_driven_cavity_flow_solver.md">Detailed description</a><br>
+📄 <a href="Projects/Lid_driven_cavity_flow_solver">Detailed description</a><br>
 💻 <em>Repository link to be added</em>
 </p>
 
 <h3>Vortex Panel Method Solver</h3>
 <p>Potential flow solver for thin airfoils using discrete vortex panels to compute circulation, lift, and pressure distribution.</p>
 <p>
-📄 <a href="Projects/vortex_panel_solver.md">Detailed description</a><br>
+📄 <a href="Projects/vortex_panel_solver">Detailed description</a><br>
 💻 <em>Repository link to be added</em>
 </p>
 
 <h3>Lifting Line Solver with Frozen Wake</h3>
 <p>Numerical lifting-line implementation for rotor aerodynamics using horseshoe vortices and Biot–Savart induced velocities.</p>
 <p>
-📄 <a href="Projects/lifting_line.md">Detailed description</a><br>
+📄 <a href="Projects/lifting_line">Detailed description</a><br>
 💻 <em>Repository link to be added</em>
 </p>
 
 <h3>Blade Element Momentum Solver – Wind Turbine</h3>
 <p>Python implementation of a Blade Element Momentum model to predict rotor loading, thrust, and power coefficients across different tip-speed ratios.</p>
 <p>
-📄 <a href="Projects/BEM_solver.md">Detailed description</a><br>
+📄 <a href="Projects/BEM_solver">Detailed description</a><br>
 💻 <em>Repository link to be added</em>
 </p>
 
@@ -102,16 +102,19 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <table>
 <tr>
 <td>
+  
 <h3>Dynamic Stall CFD – NACA0012</h3>
 <p>Unsteady RANS simulations of a pitching NACA0012 airfoil analysing leading-edge vortex formation, lift hysteresis, and separation dynamics.</p>
-<p>📄 <a href="Projects/Dynamic_stall.md">Detailed description</a></p>
+<p>📄 <a href="Projects/Dynamic_stall">Detailed description</a></p>
 
 <h3>Two Element Airfoil CFD – NLR7301</h3>
 <p>Steady RANS simulation of a high-lift two-element airfoil using the k–ω SST turbulence model, with validation against experimental data.</p>
-<p>📄 <a href="Projects/CFD_2_element.md">Detailed description</a></p>
+<p>📄 <a href="Projects/CFD_2_element">Detailed description</a></p>
+
 </table>
 </tr>
 </td>
+
 <hr>
 
 <h2>Experimental Aerodynamics &amp; Flow Measurement</h2>
@@ -123,15 +126,15 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
   
 <h3>Experimental Investigation of Hammerhead Launcher Flows</h3>
 <p>Master’s thesis investigating boattail-radius effects on shock–boundary-layer interaction and wake behaviour in hammerhead launcher configurations using Schlieren, oil flow, and PIV.</p>
-<p>📄 <a href="Projects/Thesis.md">Detailed description</a></p>
+<p>📄 <a href="Projects/Thesis">Detailed description</a></p>
 
 <h3>PIV and HWA Measurements – NACA0012 Wake</h3>
 <p>Wind tunnel experiments comparing Particle Image Velocimetry and Hot Wire Anemometry measurements in the wake of a NACA0012 airfoil.</p>
-<p>📄 <a href="Projects/NACA0012-PIV_HWA.md">Detailed description</a></p>
+<p>📄 <a href="Projects/NACA0012-PIV_HWA">Detailed description</a></p>
 
 <h3>OEI Aircraft Wind Tunnel Study</h3>
 <p>Experimental study of aerodynamic and acoustic effects of one-engine-inoperative conditions on a twin-engine aircraft model.</p>
-<p>📄 <a href="Projects/OEI_aircraft.md">Detailed description</a></p>
+<p>📄 <a href="Projects/OEI_aircraft">Detailed description</a></p>
 
 </table>
 </tr>
@@ -140,12 +143,13 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <hr>
 
 <h2>Aeroacoustics</h2>
+
 <table>
 <tr>
 <td>
 <h3>Propeller Loading Noise Modelling</h3>
 <p>Numerical analysis of propeller loading noise using rotating dipole acoustic models and spectral analysis.</p>
-<p>📄 <a href="Projects/Trailing_noise.md">Detailed description</a></p>
+<p>📄 <a href="Projects/Trailing_noise">Detailed description</a></p>
 </table>
 </tr>
 </td>
@@ -153,31 +157,35 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <hr>
 
 <h2>Propulsion &amp; Gas Dynamics</h2>
+
 <table>
 <tr>
 <td>
 <h3>Solid Rocket Motor Performance Analysis</h3>
 <p>Analysis of hot-fire test data from solid rocket motors to investigate ignition behaviour, thrust development, and impulse variability.</p>
-<p>📄 <a href="Projects/SRM_analysis.md">Detailed description</a></p>
+<p>📄 <a href="Projects/SRM_analysis">Detailed description</a></p>
 </table>
 </tr>
 </td>
+
 <hr>
 
 <h2>UAV &amp; Aircraft Design</h2>
+
 <table>
 <tr>
 <td>
 <h3>Tandem Wing Configuration Optimization</h3>
 <p>CFD simulations combined with response surface modelling and optimisation algorithms to maximise cruise lift for a tandem-wing UAV configuration.</p>
-<p>📄 <a href="Projects/Tandem_wing_optimisation.md">Detailed description</a></p>
+<p>📄 <a href="Projects/Tandem_wing_optimisation">Detailed description</a></p>
 
 <h3>Tiltrotor Bi-Prop UAV Concept</h3>
 <p>Conceptual design and aerodynamic analysis of a tiltrotor UAV configuration.</p>
-<p>📄 <a href="Projects/Tiltrotor_biopter_UAV.md">Detailed description</a></p>
+<p>📄 <a href="Projects/Tiltrotor_biopter_UAV">Detailed description</a></p>
 </table>
 </tr>
 </td>
+
 <hr>
 
 <p><em>Built with equal parts flow physics, debugging, and questionable optimism.</em></p>
