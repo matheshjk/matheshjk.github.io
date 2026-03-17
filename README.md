@@ -111,9 +111,9 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <p>Steady RANS simulation of a high-lift two-element airfoil using the k–ω SST turbulence model, with validation against experimental data.</p>
 <p>📄 <a href="Projects/CFD_2_element">Detailed description</a></p>
 
-</table>
-</tr>
 </td>
+</tr>
+</table>
 
 <hr>
 
@@ -136,9 +136,9 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <p>Experimental study of aerodynamic and acoustic effects of one-engine-inoperative conditions on a twin-engine aircraft model.</p>
 <p>📄 <a href="Projects/OEI_aircraft">Detailed description</a></p>
 
-</table>
-</tr>
 </td>
+</tr>
+</table>
   
 <hr>
 
@@ -150,9 +150,9 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h3>Propeller Loading Noise Modelling</h3>
 <p>Numerical analysis of propeller loading noise using rotating dipole acoustic models and spectral analysis.</p>
 <p>📄 <a href="Projects/Trailing_noise">Detailed description</a></p>
-</table>
-</tr>
 </td>
+</tr>
+</table>
 
 <hr>
 
@@ -164,9 +164,9 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h3>Solid Rocket Motor Performance Analysis</h3>
 <p>Analysis of hot-fire test data from solid rocket motors to investigate ignition behaviour, thrust development, and impulse variability.</p>
 <p>📄 <a href="Projects/SRM_analysis">Detailed description</a></p>
-</table>
-</tr>
 </td>
+</tr>
+</table>
 
 <hr>
 
@@ -182,9 +182,9 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <h3>Tiltrotor Bi-Prop UAV Concept</h3>
 <p>Conceptual design and aerodynamic analysis of a tiltrotor UAV configuration.</p>
 <p>📄 <a href="Projects/Tiltrotor_biopter_UAV">Detailed description</a></p>
-</table>
-</tr>
 </td>
+</tr>
+</table>
 
 <hr>
 
