@@ -1,3 +1,8 @@
+---
+layout: default
+title: BEM solver
+---
+
 # Blade Element Momentum (BEM) Solver
 
 ## Overview
