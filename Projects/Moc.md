@@ -1,3 +1,8 @@
+---
+layout: default
+title: Method of Characteristics Solver
+---
+
 # Method of Characteristics Solver for an Underexpanded Jet
 
 A Python-based Method of Characteristics (MoC) solver developed to compute the two-dimensional flow field of an underexpanded supersonic jet. The solver resolves the characteristic structure generated when a jet exits a nozzle at a pressure higher than ambient, producing Prandtl–Meyer expansion waves, successive reflections, and eventual breakdown of the isentropic solution as shock formation is approached.
