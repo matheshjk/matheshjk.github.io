@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tandem wing optimisation
+---
+
 # Tandem Wing Aerodynamic Optimisation using CFD and Response Surface Modelling
 
 ## Overview
