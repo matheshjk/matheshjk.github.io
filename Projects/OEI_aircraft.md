@@ -1,3 +1,8 @@
+---
+layout: default
+title: OEI aircraft
+---
+
 # OEI Propeller Aircraft – Experimental & Acoustic Analysis
 
 ## Overview
