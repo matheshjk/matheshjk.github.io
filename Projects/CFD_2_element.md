@@ -1,3 +1,8 @@
+---
+layout: default
+title: CFD 2 element
+---
+
 # CFD Analysis of a Two-Element Airfoil
 
 ## Overview
