@@ -52,14 +52,13 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <p>Low-fidelity aerodynamic modelling of hypersonic configurations using Newtonian, tangent-wedge, and shock-expansion methods.</p>
 <p>
 📄 <a href="Projects/hypersonic_solver">Detailed description</a><br>
-💻 <em>Repository link to be added</em>
+💻 <a href="https://github.com/matheshjk/Hypersonic_solver">View Repository</a>
 </p>
 
 <h3>Method of Characteristics – Underexpanded Jet Solver</h3>
 <p>Python implementation of a Method of Characteristics solver for underexpanded supersonic jets, capturing expansion waves and characteristic reflections.</p>
 <p>
 📄 <a href="Projects/Moc">Detailed description</a><br>
-  
 💻 <a href="https://github.com/matheshjk/Method_of_Characteristics">View Repository</a>
 </p>
 
@@ -67,28 +66,28 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 <p>Development of a 2D incompressible Navier–Stokes solver using incidence matrices and Hodge operators to compute pressure, vorticity, and streamfunction fields.</p>
 <p>
 📄 <a href="Projects/Lid_driven_cavity_flow_solver">Detailed description</a><br>
-💻 <em>Repository link to be added</em>
+💻 <a href="https://github.com/matheshjk/Lid_driven_cavity_NS_solver">View Repository</a>
 </p>
 
 <h3>Vortex Panel Method Solver</h3>
 <p>Potential flow solver for thin airfoils using discrete vortex panels to compute circulation, lift, and pressure distribution.</p>
 <p>
 📄 <a href="Projects/vortex_panel_solver">Detailed description</a><br>
-💻 <em>Repository link to be added</em>
+💻 <a href="https://github.com/matheshjk/Vortex_panel_solvers">View Repository</a>
 </p>
 
 <h3>Lifting Line Solver with Frozen Wake</h3>
 <p>Numerical lifting-line implementation for rotor aerodynamics using horseshoe vortices and Biot–Savart induced velocities.</p>
 <p>
 📄 <a href="Projects/lifting_line">Detailed description</a><br>
-💻 <em>Repository link to be added</em>
+
 </p>
 
 <h3>Blade Element Momentum Solver – Wind Turbine</h3>
 <p>Python implementation of a Blade Element Momentum model to predict rotor loading, thrust, and power coefficients across different tip-speed ratios.</p>
 <p>
 📄 <a href="Projects/BEM_solver">Detailed description</a><br>
-💻 <em>Repository link to be added</em>
+
 </p>
 
 </td>
