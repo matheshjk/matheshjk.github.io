@@ -1,3 +1,9 @@
+---
+layout: default
+title: Trailing noise exp
+
+---
+
 # Experimental Investigation of Trailing Edge Noise from a NACA0018 Airfoil
 
 ## Overview
