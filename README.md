@@ -4,7 +4,15 @@
 MSc Aerospace Engineering – TU Delft  
 Aerodynamics | CFD | Experimental Aerodynamics | Propulsion
 
-This portfolio presents selected projects covering numerical modelling, CFD simulations, experimental aerodynamics, propulsion analysis and aeroacoustics.
+## About Me
+
+![](/images/profile.jpg)
+
+I am an aerospace engineering graduate from TU Delft with a focus on aerodynamics and fluid mechanics, particularly in high-speed and complex flow regimes.
+
+My work spans numerical modelling, CFD simulations, and experimental investigations, with an emphasis on understanding flow physics and translating it into engineering insight. I am particularly interested in problems where aerodynamics connects with system-level performance — such as propulsion integration, high-speed flight, and early-stage design tools.
+
+Across my projects, I have worked on developing in-house solvers, analysing wind tunnel experiments, and building reduced-order models to support faster design iteration.
 
 ---
 
