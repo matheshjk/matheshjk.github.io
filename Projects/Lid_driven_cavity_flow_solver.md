@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lid_driven cavity flow NS solver
+---
+
 # CFD Solver for Lid-Driven Cavity Flow
 
 ## Overview
