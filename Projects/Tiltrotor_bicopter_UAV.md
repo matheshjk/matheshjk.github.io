@@ -250,7 +250,3 @@ It also shaped my later interest in bridging aerodynamic modelling with real-wor
 
 ---
 
-## Repository
-CAD, analysis files, and supporting material:
-
-`[Repository link placeholder]`
