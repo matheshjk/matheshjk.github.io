@@ -57,6 +57,14 @@ The computational domain was divided into two zones:
 
 This setup allowed the airfoil to pitch dynamically while maintaining mesh quality around the body.
 
+Whole mesh.
+
+![](/images/DS_mesh.png)
+
+Closeup view of the mesh near the airfoil.
+
+![](/images/DS_mesh2.png)
+
 ---
 
 ## Plasma Actuator Modelling
@@ -134,7 +142,15 @@ To verify the plasma actuator implementation, a static angle-of-attack sweep was
 
 For the static case, two plasma actuators were placed at **0.1c** and **0.3c**.
 
+Electric field contour showing the location of the Plasma actuators in the static case.
+
+![](/images/DS_phi_Static.png)
+
 These positions had previously been identified as favourable for delaying static stall. The results showed a clear delay in stall with actuation, confirming that the plasma model was implemented correctly and that the actuator was imparting momentum effectively to the boundary layer.
+
+Cl and Cd plots for Static case, with experimental data for NACA0012 Cl.
+
+![](/images/DS_Static.png)
 
 ---
 
@@ -154,14 +170,26 @@ When the same actuator locations used in the static case were applied to the dyn
 
 The actuator arrangement at **0.1c and 0.3c** was found to trigger **earlier shedding of the dynamic stall vortex**. Although this produced higher lift during the upward stroke, it also led to a more abrupt and highly dynamic downstroke response.
 
+Lift hysteresis for static case Plasma actuator arrangement.
+
+![](/images/DS_PA12.png)
+
 Analysis of the vorticity field suggested that the actuators were largely located within the separated region. Instead of stabilising the shear layer, they appeared to destabilise it, causing earlier DSV shedding and preventing effective reattachment. A similar trend was observed even when only the upstream actuator was retained.
+
+Vorticity contour showing the destabilising counter vorticity produced by the plasma actuators inside the separated region.
+
+![](/images/DS_PA2_close.png)
 
 ---
 
 ## Leading-Edge Actuator Placement
-To improve the control strategy, the plasma actuator was repositioned closer to the **leading edge** of the airfoil.
+To improve the control strategy, the plasma actuator was repositioned at the **leading edge** of the airfoil.
 
 This placement was found to be more effective because momentum was introduced **before the separation point**, helping to energise the shear layer at the right location.
+
+Electric field contour showing the Plasma actuator positioned at the Leading edge.
+
+![](/images/DS_phi_LE.png)
 
 With this configuration:
 
@@ -172,23 +200,29 @@ With this configuration:
 
 These results indicate that actuator placement is critical, and that a location effective for static stall does not necessarily remain effective under unsteady dynamic stall conditions.
 
----
-
-# Key Figures
-
 Lift hysteresis for baseline and controlled cases:
 
-![](/images/dynamicstall_cl_hysteresis.png)
+![](/images/DS_LEPA.png)
 
-Representative vorticity contours showing DSV formation and shedding:
+## Flow Visualisation
 
-![](/images/dynamicstall_vorticity.png)
+<h3>Dynamic Stall – Two Plasma Actuators (0.1c & 0.3c)</h3>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/VmfD-aX_Gi8" 
+title="2PA Dynamic Stall" 
+frameborder="0" 
+allowfullscreen>
+</iframe>
 
-Static stall verification with plasma actuator:
+<br><br>
 
-![](/images/dynamicstall_static_sweep.png)
-
-These results illustrate both the sensitivity of dynamic stall to flow-control placement and the importance of aligning actuator forcing with the evolving separation location.
+<h3>Baseline vs Leading-Edge Plasma Actuator</h3>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/r-ew_gpL7tw" 
+title="Baseline vs LE Plasma Actuator" 
+frameborder="0" 
+allowfullscreen>
+</iframe>
 
 ---
 
