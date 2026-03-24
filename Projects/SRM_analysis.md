@@ -110,8 +110,3 @@ Example pressure-time history from hot-fire testing:
 The analysis showed that while the analytical internal ballistics model provides reasonable estimates of steady-state motor behaviour, experimental results reveal additional effects associated with ignition dynamics and propellant surface conditions.
 
 ---
-
-## Repository
-Analysis scripts and data processing tools:
-
-`[Repository link placeholder]`
