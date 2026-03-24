@@ -51,3 +51,8 @@ The code is written in an **object-oriented framework**, with separate classes f
 ## Relevance
 
 This tool was developed to support **early-phase configuration studies**, where rapid estimation of aerodynamic loads and trends is more valuable than full high-fidelity simulation cost. It is particularly useful for comparing candidate shapes, generating preliminary aerodynamic databases, and studying sensitivity to angle of attack. Future capabilities include coupling it to a simple 6DoF trajectory analysis tool.
+
+## Repository
+Solver Implementation:
+
+[Repository Link](https://github.com/matheshjk/Hypersonic_solver.git)
