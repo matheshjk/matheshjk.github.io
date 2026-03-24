@@ -77,7 +77,4 @@ These results illustrate how the vortex wake induces velocities on the rotor bla
 
 ---
 
-## Repository
-Solver implementation:
 
-`[Repository link placeholder]`
