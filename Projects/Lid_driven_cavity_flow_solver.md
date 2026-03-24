@@ -82,4 +82,4 @@ These results illustrate the formation of the primary vortex within the cavity a
 ## Repository
 Solver implementation:
 
-`[Repository link placeholder]`
+[Repository link](https://github.com/matheshjk/Lid_driven_cavity_NS_solver.git)
