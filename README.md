@@ -181,7 +181,7 @@ This portfolio brings together projects in numerical modelling, CFD, wind tunnel
 
 <h3>Tiltrotor Bi-Prop UAV Concept</h3>
 <p>Conceptual design and aerodynamic analysis of a tiltrotor UAV configuration.</p>
-<p>📄 <a href="Projects/Tiltrotor_biopter_UAV">Detailed description</a></p>
+<p>📄 <a href="Projects/Tiltrotor_bicopter_UAV">Detailed description</a></p>
 </td>
 </tr>
 </table>
