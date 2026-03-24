@@ -93,4 +93,4 @@ The unsteady solver captures the **dynamic lift response and wake vortex formati
 ## Repository
 Solver implementation:
 
-`[Repository link placeholder]`
+[Repository link](https://github.com/matheshjk/Vortex_panel_solvers.git)
