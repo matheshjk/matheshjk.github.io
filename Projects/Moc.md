@@ -76,3 +76,7 @@ This project demonstrates the application of classical compressible-flow theory 
 - numerical root finding
 - Python scientific computing
 - scientific visualization
+
+## Repository
+
+[Repository Link](https://github.com/matheshjk/Method_of_Characteristics.git)
