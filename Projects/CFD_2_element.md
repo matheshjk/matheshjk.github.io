@@ -94,7 +94,3 @@ These results highlight how the **slot flow re-energizes the boundary layer on t
 
 ---
 
-## Repository
-CFD case setup and post-processing scripts:
-
-`[Repository link placeholder]`
