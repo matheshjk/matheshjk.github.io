@@ -83,8 +83,3 @@ The BEM solver was used to evaluate rotor performance at different **tip speed r
 These results demonstrate how BEM models can efficiently predict rotor performance and aerodynamic loading using simplified aerodynamic theory.
 
 ---
-
-## Repository
-Solver implementation:
-
-`[Repository link placeholder]`
