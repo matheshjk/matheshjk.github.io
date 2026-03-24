@@ -227,6 +227,6 @@ allowfullscreen>
 ---
 
 ## Repository
-Solver implementation and Fluent setup files:
+Fluent setup files:
 
-`[Repository link placeholder]`
+[Repository link](https://github.com/matheshjk/Dynamic_stall)
